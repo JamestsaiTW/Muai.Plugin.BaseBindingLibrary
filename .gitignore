@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/BaseBindingLibrary/obj/Debug
+/BaseBindingLibrary/obj
